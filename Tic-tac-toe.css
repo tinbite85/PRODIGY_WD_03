@@ -17,3 +17,8 @@
     width: 225px;
     margin: auto;
 }
+body{
+    background-image: url(game.webp);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
